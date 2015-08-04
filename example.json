@@ -1,0 +1,20 @@
+{ 
+"wallpapers": 
+[ 
+{
+"author": "Cheffy",
+"url": "https://raw.githubusercontent.com/junkdruggler/Desserts/master/brownies.jpg",
+"name": "Brownies"
+},
+{
+"author": "Cheffy",
+"url": "https://raw.githubusercontent.com/junkdruggler/Desserts/master/cheesecake.jpg",
+"name": "Cheesecake"
+},
+{
+"author": "Cheffy",
+"url": "https://raw.githubusercontent.com/junkdruggler/Desserts/master/chocolatechipcookies.jpg",
+"name": "Cookies- Chocolate Chip"
+}
+]
+}
